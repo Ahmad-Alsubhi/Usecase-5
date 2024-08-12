@@ -83,7 +83,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.image("Gender Preference in Job Postings.png", caption="تفضيلات الجنس في الوظائف", use_column_width=True)
 
 st.markdown(
     """
