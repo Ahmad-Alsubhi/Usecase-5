@@ -19,6 +19,9 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+st.image("1.png", caption="توزيع نسبة الوظائف حسب المنطقة", use_column_width=True)
+
+
 # المحطة الأولى: معرفة الواقع
 st.markdown(
     """
